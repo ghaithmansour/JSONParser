@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{2794014B-798D-4F15-B5CC-98DA4AF6400D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Driver", "Driver\Driver.csproj", "{039C3A2A-5D95-4393-9027-B12CFCEE416E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JSONParser", "JSONParser\JSONParser.csproj", "{0F6E5ABE-4D68-46A6-A686-36669C67E800}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2794014B-798D-4F15-B5CC-98DA4AF6400D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2794014B-798D-4F15-B5CC-98DA4AF6400D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2794014B-798D-4F15-B5CC-98DA4AF6400D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2794014B-798D-4F15-B5CC-98DA4AF6400D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{039C3A2A-5D95-4393-9027-B12CFCEE416E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039C3A2A-5D95-4393-9027-B12CFCEE416E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039C3A2A-5D95-4393-9027-B12CFCEE416E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039C3A2A-5D95-4393-9027-B12CFCEE416E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F6E5ABE-4D68-46A6-A686-36669C67E800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F6E5ABE-4D68-46A6-A686-36669C67E800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F6E5ABE-4D68-46A6-A686-36669C67E800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F6E5ABE-4D68-46A6-A686-36669C67E800}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D14CCA1-F142-4DEA-9E54-DA769828AEC7}
+	EndGlobalSection
+EndGlobal
